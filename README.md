@@ -22,4 +22,4 @@ The details are in code, but always becareful the process of every different lay
 
 # 3. Fine-tune training
 This the last stop, in 'fine_tune_train.ipynb' file, we get away with the learning item in loss function and do a one-time training again with the new pruned model. In our experiment, the modified model has 50% parameters compared to the original model but keep the same performance in accuracy. In reality, we can also try to do the pruning iteratively.
-In "eval.ipynb" file, we load both two models and draw their confusion matrix on test dataset respectively as visualization of our evaluation and comparsion
+In "evaluate.ipynb" file, we load both two models and draw their confusion matrix on test dataset respectively as visualization of our evaluation and comparsion
