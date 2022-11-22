@@ -1,0 +1,4 @@
+Configuration: 
+[125, 256, 209, 252, 188, 221, 38, 132, 338]
+Number of parameters: 
+4759000
